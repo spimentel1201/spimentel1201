@@ -1,7 +1,6 @@
 <div align="left">
   <img src="https://avatars.githubusercontent.com/u/20480987?v=4" align="right" border-radius="50px" height="70">
   <h1>Sonny Pimentel Mogrovejo</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?size=14&color=fff&lines=Good+design+adds+value+faster+than+it+adds+cost.%7C">
 </div>
 
 
