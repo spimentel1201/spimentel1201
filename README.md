@@ -22,7 +22,7 @@ Happy coding! 😊🚀
 [![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sonny-pimentel-a02a13170/)
 
 
-### <img src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="50"> A little more about me...  
 
 ---
 
