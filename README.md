@@ -3,11 +3,7 @@
   <h1>Sonny Pimentel Mogrovejo</h1>
   <img src="https://readme-typing-svg.herokuapp.com?size=14&color=fff&lines=Good+design+adds+value+faster+than+it+adds+cost.%7C">
 </div>
-- 👋 Hi, I’m @spimentel1201
-- 👀 I’m interested in develop new apps 
-- 🌱 I’m currently learning frameworks to develop android apps and web pages
-- 💞️ I’m looking to collaborate on a android project
-- 📫 How to reach me ...
+
 
 ### 👾 Summary
 
@@ -31,23 +27,21 @@ Happy coding! 😊🚀
 ---
 
 ```javascript
-const tatiana = {
-    pronouns: "She" | "Her",
-    code: ["Java", "JavaScript", "HTML", "CSS", "Python", "Vue JS","React", "PHP"],
+const michael = {
+    code: ["Java", "JavaScript", "HTML", "CSS", "Python", "NodeJS","React"],
     askMeAbout: ["books", "movies", "TV series", "music"],
     languages: ["spanish (Native)", "english (C1)"],
     technologies: {
         backend: {
             Python: ["DJango"],
-            Java: ["Maven", "Gradle"],
             JavaScript: ["Nodejs"]
         },
         frontend: {
-            JavaScript: ["Vue JS", "React"],
-            CSS: ["Boostrap", "Tailwind"],
+            JavaScript: ["React"],
+            CSS: ["Boostrap"],
         },
-        databases: ["MySQL", "Oracle", "MongoDB"],
-        tools: ["VsCode", "Intellij", "Postman", "Git", "Google Cloud"]
+        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        tools: ["VsCode", "Intellij", "Postman", "Insomnia", "Git", "AWS"]
     },
     funFact:  ,
     challenge: 
@@ -59,20 +53,19 @@ const tatiana = {
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="60" height="60"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJs" alt="NodeJs" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB"  alt="Mongo DB" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/postgres.png?size=40" title="Postgres"  alt="Postgres" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="60" height="60"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="60" height="60"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="60" height="60"/>
+      <img src="https://github.com/postmanlabs.png" title="Postman" **alt="Postman" width="60" height="60"/>
      </div>
 </div>
 
