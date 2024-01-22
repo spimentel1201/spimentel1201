@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://avatars.githubusercontent.com/u/20480987?v=4" align="right" border-radius="50px" height="70">
-  <h1>Sonny Pimentel Mogrovejo</h1>
+  <h1>Sonny Pimentel - Software Developer</h1>
 </div>
 
 
@@ -18,7 +18,7 @@ Happy coding! 😊🚀
 
 📫 How to reach me **spimentelm1201@gmail.com**
 
-[![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sonny-pimentel/)
+[![Linkedin: Sonny Pimentel](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sonny-pimentel/)
 
 
 ### <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47xw0fengzcmfo5rttp58gslx8arw113uspyl98m7c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"> A little more about me...  
